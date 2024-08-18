@@ -399,7 +399,7 @@ return {
   },
   editorconfig = {
     install_info = {
-      revision = 'fd0d64d2fc91eab903bed4c11ce280b62e46f16e',
+      revision = 'faf014c607f912ff666b20183d32a03dcfc3111d',
       url = 'https://github.com/ValdezFOmar/tree-sitter-editorconfig',
     },
     maintainers = { '@ValdezFOmar' },
@@ -535,7 +535,7 @@ return {
   },
   fortran = {
     install_info = {
-      revision = '6b633433fb3f132f21250cf8e8be76d5a6389b7e',
+      revision = '8f842945abefb76b9a68c0835619b37060b8f098',
       url = 'https://github.com/stadelmanma/tree-sitter-fortran',
     },
     maintainers = { '@amaanq' },
@@ -1099,7 +1099,7 @@ return {
   },
   leo = {
     install_info = {
-      revision = 'f5ecaaa869a845e689399092cb9a61feca66cf12',
+      revision = '07fbb1d1dd193cf9995945e5412aff61c95c67e0',
       url = 'https://github.com/r001/tree-sitter-leo',
     },
     maintainers = { '@r001' },
@@ -1420,7 +1420,7 @@ return {
   php = {
     install_info = {
       location = 'php',
-      revision = 'a552625b56c19006932cff1f207ebc07b55ed12d',
+      revision = 'd13c91bc48aedf7db8240c52503eee694134ec53',
       url = 'https://github.com/tree-sitter/tree-sitter-php',
     },
     maintainers = { '@tk-shirasaka', '@calebdw' },
@@ -1431,7 +1431,7 @@ return {
   php_only = {
     install_info = {
       location = 'php_only',
-      revision = 'a552625b56c19006932cff1f207ebc07b55ed12d',
+      revision = 'd13c91bc48aedf7db8240c52503eee694134ec53',
       url = 'https://github.com/tree-sitter/tree-sitter-php',
     },
     maintainers = { '@tk-shirasaka', '@calebdw' },

@@ -49,7 +49,7 @@ Language | Tier | Queries | Maintainer
 [dart](https://github.com/UserNobody14/tree-sitter-dart) | community | `HFIJL` | @akinsho
 [devicetree](https://github.com/joelspadin/tree-sitter-devicetree) | community | `HFIJL` | @jedrzejboczar
 [dhall](https://github.com/jbellerb/tree-sitter-dhall) | community | `HF J ` | @amaanq
-[diff](https://github.com/the-mikedavis/tree-sitter-diff) | community | `H  J ` | @gbprod
+[diff](https://github.com/the-mikedavis/tree-sitter-diff) | community | `HF J ` | @gbprod
 [disassembly](https://github.com/ColinKennedy/tree-sitter-disassembly) | community | `H  J ` | @ColinKennedy
 [djot](https://github.com/treeman/tree-sitter-djot) | community | `HFIJL` | @NoahTheDuke
 [dockerfile](https://github.com/camdencheek/tree-sitter-dockerfile) | community | `H  J ` | @camdencheek
